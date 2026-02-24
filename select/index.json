@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "L.O.V.E.",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-02-24T04:05:19.695109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "L.O.V.E.",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/01_L.O.V.E._SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "L.O.V.E",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_L.O.V.E_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "L.O.V.E.",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/03_L.O.V.E._Westlife.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "L.O.V.E",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/04_L.O.V.E_BoA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "L.O.V.E",
+      "artist": "Timaya",
+      "has_synced": true,
+      "path": "select/05_L.O.V.E_Timaya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "L.O.V.E.",
+      "artist": "Skindred",
+      "has_synced": true,
+      "path": "select/06_L.O.V.E._Skindred.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "L.O.V.E.",
+      "artist": "PRIZM",
+      "has_synced": true,
+      "path": "select/07_L.O.V.E._PRIZM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "l.o.v.e.",
+      "artist": "Ellice",
+      "has_synced": true,
+      "path": "select/08_l.o.v.e._Ellice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "L O V E L O V E",
+      "artist": "Jeremy Lister",
+      "has_synced": true,
+      "path": "select/09_L_O_V_E_L_O_V_E_Jeremy_Lister.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "L-o-v-e, L-o-v-e",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/10_L-o-v-e,_L-o-v-e_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "L O V E U, I L O V E U",
+      "artist": "린",
+      "has_synced": false,
+      "path": "select/11_L_O_V_E_U,_I_L_O_V_E_U_린.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "Tinashe",
+      "has_synced": false,
+      "path": "select/12_L-O-V-E_Tinashe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_L-O-V-E_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "Callalily",
+      "has_synced": true,
+      "path": "select/14_L-O-V-E_Callalily.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/15_L-O-V-E_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "林俊杰",
+      "has_synced": true,
+      "path": "select/16_L-O-V-E_林俊杰.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/17_L-O-V-E_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "L-O-V-E",
+      "artist": "NatKingColeVEVO",
+      "has_synced": true,
+      "path": "select/18_L-O-V-E_NatKingColeVEVO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L.O.V.E.",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_L.O.V.E._Kis-My-Ft2.txt"
+    }
+  ]
+}
