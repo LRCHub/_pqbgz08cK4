@@ -1,0 +1,59 @@
+# Kis-My-Ft2 – L.O.V.E.
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yeah, I'm lovin you...
+C'mon! C'mon! Love! Love!
+C'mon! C'mon! Love! Love!
+止まらない気持ちは嘘じゃない
+(real love)
+意味のない駆け引きはしたくない
+(with love)
+コトバに変換したけど何か違うLOVE
+恥ずかしくて言えない
+だけど後には引けない
+何度も経験したけど初めてのLOVE
+You are my love...
+リアルに君だけいればいい
+このトキメキ以外いらない
+Love for you
+愛がスピードを上げて
+僕を追い越して
+スキとキスのダブル攻めで
+暴走しそう
+Love to you 強く抱きしめたい
+胸が痛いほど
+加速して行くこの想い
+Love is everything
+この手で全てを奪いたい
+(real love)
+叶わない夢だと思わない
+(with love)
+誰かに相談するほど弱くはないLOVE
+You are my love...
+素肌が触れ合う瞬間
+光る吐息以外見えない
+Love for you
+愛がスピードを上げて
+君を追いかけて
+過去と未来繋ぐ夜に絶叫しそう
+Love to you はやく確かめたい
+ずっと切なくて
+泣きたくなるほどの想い
+Love is everything
+飾らない心が求める君だけ
+僕だけの優しい瞳を…
+愛がスピードを上げて
+スピードを上げて...
+君をもっと知りたいLove...
+Love for you
+愛がスピードを上げて
+僕を追い越して
+スキとキスのダブル攻めで
+暴走しそう
+Love to you 強く抱きしめたい
+胸が痛いほど
+加速して行くこの想い
+Love is everything
+```
